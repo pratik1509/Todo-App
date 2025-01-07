@@ -34,3 +34,4 @@
 /Users/pratik/Projects/ToDoList/ToDoList/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
 /Users/pratik/Projects/ToDoList/ToDoList/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
 /Users/pratik/Projects/ToDoList/ToDoList/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/pratik/Projects/ToDoList/ToDoList/obj/Debug/net9.0/ToDoList.sourcelink.json
